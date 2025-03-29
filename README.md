@@ -74,8 +74,6 @@ npx serve
 
 Denis Dimov - [denisdimov03@gmail.com](mailto:denisdimov03@gmail.com)
 
-Project Link: [https://github.com/DDimov03/ddimov?tab=readme-ov-file)
-
 ## 🙏 Acknowledgments
 
 - [Bootstrap](https://getbootstrap.com/)
